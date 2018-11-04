@@ -1,7 +1,6 @@
-# Protokoll 2 
-# 22.10.2018
+# Protokoll 2 | 22.10.2018
 
-## raspberry pi
+### raspberry pi
    * kleiner Computer
    * Gleicher Prozessor wie in smartphones
       * Multicore 32 bis 64 bit
@@ -22,7 +21,7 @@
          * ableger von Debian (Linux)
    * Kosten ca 35€
    
-## Konsolenbefehle (Zugriff / Steuerung des raspberry's)
+### Konsolenbefehle (Zugriff / Steuerung des raspberry's)
    * 'ssh' + 'ip' (in Benutzer einloggen)
       * 'yes'
          * passwort eingeben
@@ -47,14 +46,14 @@
       * 'add' + 'user' (Benutzer hinzufügen)
    * 'etc/sudoers' (info: wer darf was)
    
-## Verzeichnis
+### Verzeichnis
    * root
    * home
       * pi
    * etc
       * hostname
       * hosts
-## Benutzerinformationen
+### Benutzerinformationen
    * /etc
       * passwd
       * group
