@@ -57,4 +57,4 @@
       * passwd
       * group
       * shadow
-   mit dem Befehl 'man passwd' bekommt man informationen ausgegeben
+   * mit dem Befehl 'man passwd' bekommt man informationen ausgegeben
