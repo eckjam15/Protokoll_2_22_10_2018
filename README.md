@@ -2,16 +2,15 @@
 
 ### raspberry pi
    * kleiner Computer
-   * Gleicher Prozessor wie in smartphones
+   * gleicher Prozessor wie in Smartphones
       * Multicore 32 bis 64 bit
-   * Schnittstellen
+   * Schnittstellen:
       * 4 USB
       * Ethernet
       * chip
       * HDMI
       * Audio
-      * micro USB
-         * Stromversorgung
+      * micro USB für die Stromversorgung
    * Festplatte
       * micro SD-Karte
    * IDEC
